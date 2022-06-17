@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="universities">Universities</string>
+    <string name="Uni">University</string>
+</resources>
